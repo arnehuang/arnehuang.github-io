@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-  I've got a B.Math majoring in Statistics and for fun I did a double major in Psychology. 
+  I've got a bachelors of mathematics from the University of Waterloo majoring in Statistics. For fun I did a double major in Psychology. 
   
   I love travelling, awful music and unique foods. Here's one of my all time <a href=" https://www.youtube.com/watch?v=iq_d8VSM0nw">favourites</a>.
   
