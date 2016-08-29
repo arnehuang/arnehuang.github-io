@@ -5,7 +5,7 @@ permalink: /about/
 ---
   I've got a B.Math majoring in Statistics and for fun I did a double major in Psychology. 
   
-  I love travelling, awful music and unique foods. Here's one of my all time <a href=" https://www.youtube.com/watch?v=iq_d8VSM0nw">favourites </a>.
+  I love travelling, awful music and unique foods. Here's one of my all time <a href=" https://www.youtube.com/watch?v=iq_d8VSM0nw">favourites</a>.
   
   I use R for analysis, Python and shell scripting for automation, SQL for database interactions and Excel for almost everything. I built this website using Jekyll and Bootstrap.
   
