@@ -3,9 +3,7 @@ layout: page
 title: My Projects
 permalink: /MyProjects/
 ---
-  <h2>Speech to Text Coding in Python</h2>
-  I'm building an add-in to allow for speech to text coding in Python in most popular IDEs. I'm still thinking about how best to set up symbols (perhaps I'll have custom sounds like "lub" for left bracket). Check out my progress <a href="https://github.com/arnehuang/echo">here</a>
-  
+
   <h2>SVM Modeling</h2>
   While at the University of Waterloo, I collaborated with Dr. Martin Lysy from the statistics department. We successfully modeled several stochastic volatility models in R. We then simulated large datasets from these models. Comparing simulated data to empirical data, we found that standard comparison statistics (maximum likelihood, Kullbach-Liebler) could not distinguish between simulated and empirical data. Thoughout the course of this project, I contributed to a custom R package (SVModel). I received an NSERC undergraduate research award for outstanding research ($5000)
   
