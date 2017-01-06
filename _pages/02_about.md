@@ -7,4 +7,4 @@ permalink: /about/
   
   I love travelling, thinking about products, and awful music. Here's one of my all time <a href=" https://www.youtube.com/watch?v=iq_d8VSM0nw">favourites</a>. 
   
-  At the moment, I'm trying to figure out and learn how a college frat boy took the idea of sending self deleting questionable-natured photos into a 25 billion dollar company (that still takes screenshots of the camera preview on Andriod instead of using proper camera API). Take a look at my blog section for more on that.
+  At the moment, I'm trying to figure out and learn how a college frat boy took the idea of sending self deleting questionable-natured photos into a 25 billion dollar company (that still takes screenshots of the camera preview on Andriod instead of using proper camera API). Take a look at my <a href=" https://arnehuang.github.io/blog/">blog</a> for more on that.
