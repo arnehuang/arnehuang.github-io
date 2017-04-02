@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-  I've got a bachelors of mathematics from the University of Waterloo. Double Majored in Statistics and Psychology. I do stuff in R, Python, MySQL, Unix when I have to. I built this website using Jekyll and Bootstrap.
+  I've got a bachelors of mathematics from the University of Waterloo and a psychology major as well. I like to think about a lot of weird things like the research of <a href="http://www.dbem.ws/FeelingFuture.pdf">Daryl J. Bem</a>, distinguished Cornell professor who for the last 20 years has been trying to prove the existence of pre-cognition.
+  When I'm not reading obscure psychology studies, I love travelling, thinking about products, and awful music. Here's one of my all time <a href=" https://www.youtube.com/watch?v=iq_d8VSM0nw">favourites</a>. 
+  For those curious, I built this website using Jekyll.
   
-  I love travelling, thinking about products, and awful music. Here's one of my all time <a href=" https://www.youtube.com/watch?v=iq_d8VSM0nw">favourites</a>. 
-  
-  At the moment, I'm trying to figure out and learn how a college frat boy took the idea of sending self deleting questionable-natured photos into a 25 billion dollar company (that still takes screenshots of the camera preview on Andriod instead of using proper camera API). Take a look at my <a href=" https://arnehuang.github.io/blog/">blog</a> for more on that.
