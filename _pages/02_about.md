@@ -7,7 +7,7 @@ permalink: /about/
   
   I'm currently very interested in the field of Human Computer Interactions - specifically using eye tracking and/or EEG as inputs to computers instead of the keyboard/mouse. Below is me trying to train a neural net to predict left/right mouse movement based on EEG readings, using gaze tracking as input.
   
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/lsCXN"><a href="//imgur.com/lsCXN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/lsCXN"><a href="//imgur.com/lsCXN"></a></blockquote>
   
   In my spare time I like to think about a lot of weird things - like the research of <a href="http://www.dbem.ws/FeelingFuture.pdf">Daryl J. Bem</a>, distinguished Cornell professor who for the last 20 years has been trying to prove the existence of pre-cognition.
   
