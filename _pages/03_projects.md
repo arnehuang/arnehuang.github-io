@@ -13,8 +13,8 @@ permalink: /MyProjects/
 
   
   <h2>Psychology - Flow in Mind Wandering</h2>
-  "Flow" is the state of optimal engagement. When you're In The Zone, maybe playing a sport or a video game or when you're taking a test and you feel like you are doing Exceptionally Well -  that's Flow.
-  I explored whether people experienced Flow in a special situation - when they are Mind Wandering. I wanted to understand why people mind wander - is it because they are chasing this fleeting feeling of doing Exceptionally Well in life?
+  "Flow" is the state of <a href = 'https://en.wikipedia.org/wiki/Flow_(psychology)'> optimal engagement</a>.
+  For my honours thesis in psychology, I explored whether people experienced Flow in a special situation - when they are Mind Wandering. I wanted to understand why people mind wander - is it because they are chasing this fleeting feeling of doing Exceptionally Well in life?
   I found two things: first, that yes, people report flow-like characteristics when they are mind wandering. I investigated further and found that people who report more Flow inside mind wandering also deliberately mind wander more often.   
   
   
