@@ -1,7 +1,7 @@
 ---
 layout: page
-title: My Projects
-permalink: /MyProjects/
+title: Projects
+permalink: /projects/
 ---
 
   <h2>HCI - Whack A Vole</h2>
