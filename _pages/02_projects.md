@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
   <h2>HCI - Whack A Vole</h2>
-  I'm currently working on a game of "whack-a-vole" where one plays with their eyes. You can find my work in progress <a href = 'https://whack-a-vole.herokuapp.com/vole'> here </a>. Clicks calibrate the model so click around the screen while staring purposefully at your mouse cursor (not the hammer). After a while, you should notice that the hammer will start moving to where you are looking, not where you are clicking. 
+  I'm currently working on a game of "whack-a-vole" where one plays with their eyes. You can find my work in progress <a href = 'https://whack-a-vole.herokuapp.com/vole'> here </a>. Clicks calibrate the model so click around the screen while staring purposefully at your mouse cursor (not the hammer). After a while, you should notice that the hammer will start moving to where you are looking, not where you are clicking. <a href = 'https://whack-a-vole.herokuapp.com/collision'> This is what I'm trying to calibrate.</a>
   
   <h2>Psychology - Directed Forgetting</h2>
   While at the University of Waterloo, I collaborated with Dr. Colin Macleod from the psychology department to dispute <a href = 'https://link.springer.com/article/10.3758%2FBF03195325'> a paper </a> concluding that people can intentionally forget things by trying.
