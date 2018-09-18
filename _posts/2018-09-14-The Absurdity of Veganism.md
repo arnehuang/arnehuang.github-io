@@ -102,7 +102,7 @@ Despite my best efforts to approach this topic with neutrality and curiosity, so
 
 "I'm not saying _you_ have to be vegan. I'm saying I do it because it's what I _believe_ in."
 
-Sure, but you claim that to be vegan because you believe it reduces suffering. 
+Sure, but you claim to be vegan because you _believe_ it reduces suffering, specifically, animal suffering. 
 
 It seems that you're introducing human suffering... 
 - in the farmers that grow the livestock you refuse to eat
@@ -119,7 +119,7 @@ We all like donating. Giving a dollar to a starving child in Africa _feels good_
 
 But suppose that the organization you gave your dollar to is run by a clever con man that takes your money for personal gain instead. You'd feel cheated. Angry. All sorts of indignant. 
 
-But if you never knew....
+But if you never knew about the con man....
 
 The fact that most people don't care enough to find out indicates that they care about the feeling of goodness they get by donating, not about the actual impact their dollar had.
 
