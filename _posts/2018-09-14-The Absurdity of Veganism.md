@@ -7,7 +7,7 @@ permalink: /blog/theabsurdityofveganism/
 ---
 If everyone in the world became a vegan today, there would be __catastrophic__ consequences.
 
-It's not that the vegan rational is all wrong... At the core of it, the spirit of the argument makes sense. Many non-vegans today will even agree that at some point how much an animal suffers outweighs the inconvenience of not eat it. 
+It's not that the vegan rational is all wrong... At the core of it, the spirit of the argument makes sense. Many non-vegans today will even agree that at some point how much an animal suffers outweighs the inconvenience of not eating it. 
 
 In 1000 years, we'll probably look back and be disgusted at the barbarism  that is human food consumption. 
 
@@ -51,7 +51,7 @@ A lot of bad things would happen.
 
 - Farmers, whose lives depend on raising livestock are suddenly financially destitute. 
 
-- Also, their animals, with no purpose, would be everywhere. 
+- Also, their animals, with no purpose, would probably be left to roam freely as the cost to keep them is greater than their value. 
 
 - Financial markets are shocked as protein alternatives suddenly become extremely valuable, while meat crashes. 
 
@@ -104,10 +104,10 @@ Despite my best efforts to approach this topic with neutrality and curiosity, so
 
 Sure, but you claim to be vegan because you _believe_ it reduces suffering, specifically, animal suffering. 
 
-It seems that you're introducing human suffering... 
+But what about human suffering... 
 - in the farmers that grow the livestock you refuse to eat
-- in the financial markets that run less efficiently because they expect you to eat meat
-- in your friends who - being accepting and understanding - go out of their way to cook...
+- in the financial markets that run less efficiently because society expects you to eat meat
+- in your friends who - being accepting and understanding - spend time learning vegan cooking instead of doing something else...
 
 <br/>
 
@@ -131,6 +131,6 @@ In the vegan case, the common responses indicate that most vegans only care abou
 
 <br/>
 
-More and more of my vegan friends are trying to make impacts in more efficient ways. If you care about the cause, consider donating time or effort to spreading awareness for companies like [Mosa Meat.](https://www.mosameat.com/)
+More and more of my vegan friends are trying to make impacts in more efficient ways. If you care about the cause, consider donating time or effort to spreading awareness for companies like [Mosa Meat.](https://www.mosameat.com/) Or organizations like [Effective Altruism](https://www.effectivealtruism.org/)
 
 At the end of the day, the market has to drive veganism. Economic incentives need to be in place in order to drive the massive change needed to have any sort of impact. 
