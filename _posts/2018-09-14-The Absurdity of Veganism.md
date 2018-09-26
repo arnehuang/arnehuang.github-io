@@ -131,6 +131,6 @@ In the vegan case, the common responses indicate that most vegans only care abou
 
 <br/>
 
-More and more of my vegan friends are trying to make impacts in more efficient ways. If you care about the cause, consider donating time or effort to spreading awareness for companies like [Mosa Meat.](https://www.mosameat.com/) Or organizations like [Effective Altruism](https://www.effectivealtruism.org/)
+More and more of my vegan friends are trying to make impacts in more efficient ways. If you care about the cause, consider donating time or effort to spreading awareness for companies like [Mosa Meat.](https://www.mosameat.com/)Or organizations like [Effective Altruism](https://www.effectivealtruism.org/)
 
 At the end of the day, the market has to drive veganism. Economic incentives need to be in place in order to drive the massive change needed to have any sort of impact. 
