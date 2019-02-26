@@ -23,6 +23,6 @@ There's a famous saying among musicians and artists:
 
 ---
 
-I like to go down this down this line of thinking whenever I'm tempted to skip something that has been routinized (workout, practising, etc). Not only will I not get better, but I'll actually get worse, and (this is another topic) I'll make it easier to skip in the future. The swing or opportunity cost in my head has to be at least doubled when I judging whether it's worth it.
+I like to go down this down this line of thinking whenever I'm tempted to skip something that has been routinized (workout, practising, etc). Not only will I not get better, but I'll actually get worse, and (this is another topic) I'll make it easier to skip in the future. The opportunity cost in my head has to be at least doubled when I'm judging whether it's worth it.
 
 
