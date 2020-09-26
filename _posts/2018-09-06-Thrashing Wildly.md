@@ -19,7 +19,7 @@ I've had 4 jobs in 4 cities since graduating two years ago, an average of 6 mont
 
 I've moved countries and continents on a whim.
 
-A  **really fucking smart** guy I used to know wrote about such behaviour. He called it [Thrashing Wildly]( http://sandymaguire.me/blog/thrashing-wildly/). I like it.
+A  guy I used to know wrote about such behaviour. He called it [Thrashing Wildly]( http://sandymaguire.me/blog/thrashing-wildly/). I like it.
 
 
 ---
