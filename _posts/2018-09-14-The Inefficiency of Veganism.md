@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "The Absurdity of Veganism"
+title:  "The Inefficiency of Veganism"
 date:   2018-09-17 19:45:00 -0700
 categories: Reflections, Efficiency
-permalink: /blog/theabsurdityofveganism/
+permalink: /blog/theinefficiencyofveganism/
 ---
 I don't think vegans are going about solving their problem the right way. 
 
-It's not that the vegan belief is wrong. I think the argument makes sense. Many non-vegans today will even agree that at some point how much an animal suffers outweighs the inconvenience of not eating it. 
+It's not that the vegan belief is wrong. I think the argument makes sense. Many non-vegans today will agree that animal suffering is bad. 
 
-In 1000 years, we'll probably look back and be disgusted at the barbarism  that is human food consumption. 
+In 1000 years, we'll probably look back and be disgusted at the barbarism and inefficiency that is human food consumption. 
 
 However, in the present day, many non-vegans tend to agree with statements such as 
 
@@ -41,9 +41,9 @@ Basically, there's a lot of people who like eating meat, and **a lot of people w
 
 <br/>
 
-**What specifically has to happen in order for animals to stop suffering?** 
+What **realistically** has to happen in order for animals to stop suffering for our food?
 
-When asked, most vegans have never thought about these questions. They think about what they can do. Not what must happen to solve the problem.
+When asked, most vegans have never thought about these questions. They think about what they can do. Not what must happen scientifically, economically and socially to solve the problem.
 
 I compare veganism to donating. We all like donating. Giving a dollar to a starving child in Africa _feels good_. 
 
@@ -56,7 +56,8 @@ In the vegan case, I think most vegans only care about _feeling good, like they'
 ---
 
 <br/>
+Scientifically, it doesn't make sense to grow cows to get meat. Cows are meant to be making more cows. For energy that you put into a cow, most of it will be wasted: they grow reproductive organs, they have nerves to avoid pain, they have a whole system that needs energy to make more cows. Not make more meat. Thats why figuring out to to grow meat to get meat will be a game changer. 
 
-If you care about the cause, consider donating time or effort to spreading awareness for companies like [Mosa Meat.](https://www.mosameat.com/) 
+If you care about these things, consider checking out companies like [Mosa Meat.](https://www.mosameat.com/) 
 
 At the end of the day, the market has to drive veganism. Economic incentives need to be in place in order to drive the massive change needed to have any sort of impact. 
