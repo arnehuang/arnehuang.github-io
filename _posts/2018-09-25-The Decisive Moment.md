@@ -58,8 +58,6 @@ I'm trying to break down what happens in my head now in these moments. It's hard
 
 - "You've worked out for 8 weeks in a row now, didn't you read somewhere you should have a rest week?"
 
-- "Women are more attracted to men when ovulating"
-
 And I don't make a pros and cons list or anything. These facts just float in and out of consciousness, faster than I can be aware of, and suddenly, a decision will be made. In like 2-5 seconds. I don't know how. I do know it's a lot of different things that affect me in that instant. A cumulation of many factors. Small, critical, invisible. But its thoughts I'm not fully aware of during and definitely not aware of after. It's unfortunate humans don't have a big nice dashboard in their head showing them all of the factors contributing to a decision at the moment.
 
 Before this moment, if you ask me "Are you working out today?" _any answer you get is unreliable_. After this moment, I get a sense of _sureness_ and looking back (selective memory, yada yada) I don't think I've deviated from whatever decision is made after that instant.
